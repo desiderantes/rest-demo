@@ -1,6 +1,6 @@
-REST Demo for OmniLatam
+# REST Demo for OmniLatam
 
-How to run:
+## How to run:
 
 ```shell script
 ./gradlew bootRun
@@ -8,7 +8,7 @@ How to run:
 
 Runs by default on port `8080`
 
-Structure:
+## Structure:
 
 `config` contains a small config change in serialization to pickup a time module.
 
